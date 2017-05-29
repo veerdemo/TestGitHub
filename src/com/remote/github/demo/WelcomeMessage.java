@@ -3,7 +3,7 @@ package com.remote.github.demo;
 public class WelcomeMessage {
 
 	public static void main(String[] args) {
-		System.out.println("Welcome to the DemoFLO Branch Merge changes from Another branch");
+		System.out.println("Welcome to the new user TeamFLOUser1");
 		
 	}
 
